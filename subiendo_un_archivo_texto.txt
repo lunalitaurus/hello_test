@@ -1,0 +1,3 @@
+#Hola, el día de hoy subiré un archivo de texto
+"hola mundo"
+1+1
